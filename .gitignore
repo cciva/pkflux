@@ -25,6 +25,7 @@ go.work
 
 *.log
 
+.vscode/
 bin/
 log*/
 t?mp/
